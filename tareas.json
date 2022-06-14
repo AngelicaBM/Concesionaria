@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "Repasar JS desde Json",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Armar aplicación de Tareas",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Break",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "cenar",
+        "estado": "pendiente"
+    }
+]
